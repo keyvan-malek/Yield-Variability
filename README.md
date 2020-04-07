@@ -21,4 +21,4 @@ The main purpose of this post-processing code was to read VIC-CropSyst outputs a
 In [this step](https://github.com/keyvan-malek/Yield-Variability/tree/master/Postprocessing_2), we aggregate crop response curves over the entire Yakima River Basin.
 
 ### Third Step:
-Finally, [these R-scripts](https://github.com/keyvan-malek/Yield-Variability/tree/master/Figures) were used to generate the figures that were displayed in the paper and supplemental materials.
+Finally, the R-scripts provided in [these folders](https://github.com/keyvan-malek/Yield-Variability/tree/master/Figures) were used to generate the figures that were displayed in the paper and supplemental materials.
