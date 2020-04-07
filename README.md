@@ -4,7 +4,7 @@ The computational platform of this study consists of the following two steps:
 ### Hydrologic and Agricultural Simulations:
 The underlying hydrological and agricultural simulations of this study were done using the VIC-CropSyst model, which is a tightly-coupled, physically-based agro-hydrologic simulation tool. More information about VIC-CropSyst can be found in Malek et al. (2017). The VIC-CropSyst model will be made available upon email request to Keyvan Malek (km663@cornell.edu) and Jennifer Adam (jcadam@wsu.edu). 
 
-The input files used to conduct VIC-CropSyst simulations can be found here. These files include the global parameters file as well as the crop-related, vegetation-related, elevation/snow band, and soil input files.
+The input files used to conduct VIC-CropSyst simulations can be found [here](https://figshare.com/articles/Input_and_Output_Files/6818810). These files include the global parameters file as well as the crop-related, vegetation-related, elevation/snow band, and soil input files.
 
 ### River Routing:
 The routing code of Lohmann et al. (1996) was used to generate naturalized streamflow. The model can be found here, and input information used in this simulation has been explained here.
