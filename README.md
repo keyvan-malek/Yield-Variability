@@ -7,7 +7,7 @@ The underlying hydrological and agricultural simulations of this study were done
 The input files used to conduct VIC-CropSyst simulations can be found [here](https://figshare.com/articles/Input_and_Output_Files/6818810). These files include the global parameters file as well as the crop-related, vegetation-related, elevation/snow band, and soil input files.
 
 ### River Routing:
-The routing code of Lohmann et al. (1996) was used to generate naturalized streamflow. The model can be found here, and input information used in this simulation has been explained here.
+The routing code of Lohmann et al. (1996) was used to generate naturalized streamflow. The model can be found [here](https://rvic.readthedocs.io/en/latest/), and input information used in this simulation has been explained in [Wu et al (2012)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2012WR012313).
 
 ### Water Management Simulations:
 The river system model used in this study (Yakima RiverWare: YAK-RW) was developed by the United States Bureau of Reclamation in partnership with the Washington State Department of Ecology and the HDR company. The RiverWare model is a system dynamics platform specifically developed to simulate river systems; it is not an open source model. The input and output (proration rates) files of YAK-RW can be found here.
