@@ -18,7 +18,7 @@ The river system model used in this study (Yakima RiverWare: YAK-RW) was develop
 The main purpose of this post-processing code was to read VIC-CropSyst outputs and create crop response curves to water availability for each crop type in the YRB. [This script](https://github.com/keyvan-malek/Yield-Variability/tree/master/Postprocessing_1) (written in R programming language) was used to make that happen. The final crop response curves and R-scripts used to generate these curves can be found [here](https://github.com/keyvan-malek/Yield-Variability/tree/master/Data).
 
 ### Second Step:
-In this step, we aggregate crop response curves over the entire Yakima River Basin.
+In [this step](https://github.com/keyvan-malek/Yield-Variability/tree/master/Postprocessing_2), we aggregate crop response curves over the entire Yakima River Basin.
 
 ### Third Step:
 Finally, the following R-scripts were used to generate the figures that were displayed in the paper and supplemental materials.
